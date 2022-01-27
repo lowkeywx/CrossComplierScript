@@ -1,0 +1,2 @@
+C:\msys64\mingw32\bin\ar.exe qc libabsl_flags_usage_internal.a  CMakeFiles/flags_usage_internal.dir/internal/usage.cc.obj
+C:\msys64\mingw32\bin\ranlib.exe libabsl_flags_usage_internal.a

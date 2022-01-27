@@ -1,0 +1,2 @@
+C:\msys64\mingw32\bin\ar.exe qc libabsl_leak_check_disable.a  CMakeFiles/leak_check_disable.dir/leak_check_disable.cc.obj
+C:\msys64\mingw32\bin\ranlib.exe libabsl_leak_check_disable.a

@@ -1,0 +1,1 @@
+/mingw32/bin/CC.exe     CMakeFiles/js_embed.dir/c/DuoBei/ThirdPart/protobuf-3.3.0/src/google/protobuf/compiler/js/embed.cc.obj  -o js_embed 

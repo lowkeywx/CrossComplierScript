@@ -1,0 +1,2 @@
+C:\msys64\mingw32\bin\ar.exe qc libabsl_raw_logging_internal.a  CMakeFiles/raw_logging_internal.dir/internal/raw_logging.cc.obj
+C:\msys64\mingw32\bin\ranlib.exe libabsl_raw_logging_internal.a

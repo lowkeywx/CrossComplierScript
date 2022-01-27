@@ -1,0 +1,1 @@
+/mingw32/bin/CC.exe     CMakeFiles/protoc.dir/c/DuoBei/ThirdPart/protobuf-3.3.0/src/google/protobuf/compiler/main.cc.obj  -o protoc  libprotobuf.a libprotoc.a libprotobuf.a /mingw32/lib/libz.a 

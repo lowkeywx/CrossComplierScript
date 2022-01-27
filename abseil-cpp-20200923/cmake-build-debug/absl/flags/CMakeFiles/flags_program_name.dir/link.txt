@@ -1,0 +1,2 @@
+C:\msys64\mingw32\bin\ar.exe qc libabsl_flags_program_name.a  CMakeFiles/flags_program_name.dir/internal/program_name.cc.obj
+C:\msys64\mingw32\bin\ranlib.exe libabsl_flags_program_name.a

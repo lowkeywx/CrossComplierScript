@@ -1,0 +1,9 @@
+/*
+!.gitignore
+!build.sh
+!ios-cmake/
+!Opus-IOS/
+!cmake_build.sh
+!configure_build.sh
+!configure_ares_build.sh
+!configure_curl_build.sh

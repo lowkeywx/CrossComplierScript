@@ -1,0 +1,2 @@
+/mingw32/bin/ar.exe qc libgmock.a  CMakeFiles/gmock.dir/c/DuoBei/ThirdPart/protobuf-3.3.0/gmock/src/gmock-all.cc.obj CMakeFiles/gmock.dir/c/DuoBei/ThirdPart/protobuf-3.3.0/gmock/gtest/src/gtest-all.cc.obj
+/mingw32/bin/ranlib.exe libgmock.a

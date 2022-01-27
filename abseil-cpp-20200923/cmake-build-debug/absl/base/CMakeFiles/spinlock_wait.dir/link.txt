@@ -1,0 +1,2 @@
+C:\msys64\mingw32\bin\ar.exe qc libabsl_spinlock_wait.a  CMakeFiles/spinlock_wait.dir/internal/spinlock_wait.cc.obj
+C:\msys64\mingw32\bin\ranlib.exe libabsl_spinlock_wait.a

@@ -1,0 +1,2 @@
+C:\msys64\mingw32\bin\ar.exe qc libabsl_scoped_set_env.a  CMakeFiles/scoped_set_env.dir/internal/scoped_set_env.cc.obj
+C:\msys64\mingw32\bin\ranlib.exe libabsl_scoped_set_env.a

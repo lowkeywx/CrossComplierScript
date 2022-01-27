@@ -1,0 +1,2 @@
+C:\msys64\mingw32\bin\ar.exe qc libabsl_flags_private_handle_accessor.a  CMakeFiles/flags_private_handle_accessor.dir/internal/private_handle_accessor.cc.obj
+C:\msys64\mingw32\bin\ranlib.exe libabsl_flags_private_handle_accessor.a

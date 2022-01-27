@@ -1,0 +1,2 @@
+C:\msys64\mingw32\bin\ar.exe qc libabsl_flags_parse.a  CMakeFiles/flags_parse.dir/parse.cc.obj
+C:\msys64\mingw32\bin\ranlib.exe libabsl_flags_parse.a
